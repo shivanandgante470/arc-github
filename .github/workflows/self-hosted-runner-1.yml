@@ -1,4 +1,4 @@
-name: win-self-hosted-runner
+name: win-self-hosted-runner1
 
 # Controls when the workflow will run
 on:
